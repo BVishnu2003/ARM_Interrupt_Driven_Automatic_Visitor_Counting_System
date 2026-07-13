@@ -129,9 +129,6 @@ VisitorCounter/
 
 **B. Vishnu**
 
-🎓 BE Computer Science and Engineering (2025)
-
-🌱 Embedded Systems Learner
 
 ---
 
